@@ -5,13 +5,13 @@ VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStorage", "DataStorage\DataStorage.csproj", "{A49FC723-6D75-4E9D-B6E1-361FC58094AD}"
 EndProject
-Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "StorageToService", "StorageToService\StorageToService.sfproj", "{366FA596-9502-4B72-930B-AD380C2B77DE}"
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "Service-fabric-Stateful-Service", "StorageToService\Service-fabric-Stateful-Service.sfproj", "{366FA596-9502-4B72-930B-AD380C2B77DE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreService", "StoreService\StoreService.csproj", "{AF1226E5-DA5F-4000-ACD9-4774F58CB072}"
 EndProject
-Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "StatelessClient", "StatelessClient\StatelessClient.sfproj", "{827E8EC0-B536-4A9D-8BA5-9A47B04388C6}"
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "Service-Fabric-Stateless-Client", "StatelessClient\Service-Fabric-Stateless-Client.sfproj", "{827E8EC0-B536-4A9D-8BA5-9A47B04388C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatelessStore", "StatelessStore\StatelessStore.csproj", "{4CA812F4-9B14-4DB2-9D44-E3F9ED87B36A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StatelessStore", "StatelessStore\StatelessStore.csproj", "{4CA812F4-9B14-4DB2-9D44-E3F9ED87B36A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
